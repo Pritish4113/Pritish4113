@@ -47,9 +47,9 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Pritish4113/Pritish4113/output/snake.svg" alt="Snake animation" />
+
+![snake gif](https://github.com/Pritish4113/Pritish4113/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
