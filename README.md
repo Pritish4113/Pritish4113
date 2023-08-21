@@ -47,7 +47,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Pritish4113/Pritish4113/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Pritish4113/Pritish4113/output/snake.svg"/>
 
 
 ###
