@@ -1,4 +1,4 @@
-<h1 align="center"> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> I am Pritish Singhal</h1>
+<h1 align="center"> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?157730550" width="50" /> I am Pritish Singhal</h1>
 
 ###
 
@@ -9,11 +9,11 @@
 
 ###
 
-<img align="right" height="184" src="https://ayushkaul.netlify.app/static/media/dev-ed-wave.96fe79664ed9e871bb6f.png"  />
+<img align="right" height="180" src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47mfvjzeear83yct68jhgld315rknwaki067hlvtb5&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
-
-<div align="left">
+<h2>I Code using :</h2>
+<div align="left" margin-top = "10px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
